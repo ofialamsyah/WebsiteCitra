@@ -5,8 +5,8 @@ body,
 html {
   -webkit-tap-highlight-color: transparent;
   height: 100%;
-  background: linear-gradient(-45deg, #f1ca89, #f29191, #907fa4, #4aa96c);
-  background-size: 400% 400%;
+  background-image: url(gambar.jpg);
+  background-size: 100% ;
   animation: animasiBegron 15s ease infinite;
   width: 100%;
   padding: 0;
@@ -54,7 +54,7 @@ html {
 
 .dalemnya_kontener {
   text-align: center;
-  background: #867ae9;
+  background: #e574bc;
   width: 100%;
   height: 94%;
   overflow: hidden;
@@ -92,7 +92,7 @@ section .isiucapan {
 }
 
 section.halaman1 {
-  background: #ff96ad;
+  background: #ef94d5;
   -webkit-transition-delay: 0s;
 }
 
@@ -104,11 +104,11 @@ section.halaman1 {
 .halaman1 .isiucapan1 {
   display: inline-block;
   width: 80%;
-  color: #f5f5f5;
+  color: #404040;
 }
 
 section.halaman2 {
-  background: #BCCFD7;
+  background: #dabfff;
   -webkit-transition-delay: 0.05s;
 }
 
@@ -124,7 +124,7 @@ section.halaman2 {
 }
 
 section.halaman3 {
-  background: #D3B0AD;
+  background: #96d7ff;
   -webkit-transition-delay: 0.1s;
 }
 
@@ -136,11 +136,11 @@ section.halaman3 {
 .halaman3 .isiucapan3 {
   display: inline-block;
   width: 80%;
-  color: #f5f5f5;
+  color: #404040;
 }
 
 section.halaman4 {
-  background: #f1ca89;
+  background: #fe6d73;
   -webkit-transition-delay: 0.15s;
 }
 
